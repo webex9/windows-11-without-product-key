@@ -71,7 +71,7 @@ Boot your PC from the Windows 11 installation media and begin setup.
 
 You'll first see the standard Windows Setup screens for language, time, keyboard, and installation.
 
-![Windows 11 Setup](images/windows-11-setup.png)
+![Windows 11 Setup](images/windows-11-setup.jpg)
 
 Choose your preferred settings and continue until Windows Setup asks for a product key.
 
@@ -87,7 +87,7 @@ select:
 
 > **I don't have a product key**
 
-![Windows 11 Product Key Screen](images/windows-11-product-key.png)
+![Windows 11 Product Key Screen](images/windows-11-product-key.jpg)
 
 Windows will let you continue installing without entering a key at this stage.
 
@@ -104,7 +104,7 @@ This is useful when:
 
 Windows Setup will ask which edition you want to install.
 
-![Windows 11 Edition Selection](images/windows-11-edition.png)
+![Windows 11 Edition Selection](images/windows-11-edition.jpg)
 
 Common choices include:
 
@@ -130,7 +130,7 @@ Choosing the wrong edition can prevent automatic activation.
 
 Continue through Windows Setup and allow the installation to finish.
 
-![Windows 11 Installation Progress](images/windows-11-installing.png)
+![Windows 11 Installation Progress](images/windows-11-installing.jpg)
 
 The PC may restart several times.
 
@@ -144,7 +144,7 @@ Once you reach the Windows desktop, open:
 
 **Settings → System → Activation**
 
-![Windows 11 Activation Settings](images/windows-11-activation-settings.png)
+![Windows 11 Activation Settings](images/windows-11-activation-settings.jpg)
 
 Look for the **Activation state**.
 
@@ -180,7 +180,7 @@ Go to:
 
 Then enter your 25-character key.
 
-![Change Product Key](images/change-product-key.png)
+![Change Product Key](images/change-product-key.jpg)
 
 Example format:
 
